@@ -1,0 +1,52 @@
+project title
+
+Zomato Restaurant Analytics & Customer Insights
+
+project objective
+
+this project analyzes Zomato restaurant data to understand customer preferences, restaurant performance, pricing trends, and online ordering behavior. The goal is to discover business insights that can improve customer engagement and restaurant operations.
+
+Dataset Information
+
+Dataset Name: Zomato Restaurant Dataset
+
+Total Rows: 7105
+
+Columns:
+restaurant name
+restaurant type
+rate (out of 5)
+num of ratings
+avg cost (two people)
+online order
+table booking
+cuisines type
+area
+local address
+
+Business Questions
+
+1. Which restaurant types receive the highest ratings?
+2. Which areas contain the highest number of restaurants?
+3. Which cuisines are most popular among customers?
+4. Does online ordering impact restaurant ratings?
+5. Which restaurants have the highest customer engagement based on number of ratings?
+6. What is the relationship between average cost and restaurant ratings?
+7. Which areas contain the most expensive restaurants?
+8. Does table booking affect restaurant ratings?
+9. Which cuisines appear most frequently across restaurants?
+10. Which restaurant types are most common in different areas?
+
+
+Expected Insights
+
+- Identify highly rated restaurant categories
+- Discover customer ordering preferences
+- Understand pricing trends across locations
+- Analyze factors affecting restaurant ratings
+- Identify areas with strong restaurant competition
+
+
+
+
+
