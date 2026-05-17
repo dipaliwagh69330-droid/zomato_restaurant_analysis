@@ -45,4 +45,6 @@ In this project I worked on data cleaning, exploratory data analysis, SQL querie
 - This project was created mainly for practice and learning purpose to improve my skills in data analysis and dashboard building.
 - It also helped me understand how Python, SQL and Power BI work together in a complete analytics workflow.
 
-  
+## Dashboard Preview
+
+![Dashboard]([PASTE_IMAGE_LINK_HERE](https://github.com/dipaliwagh69330-droid/zomato_restaurant_analysis/blob/main/Dashboard_SS.png?raw=true))
